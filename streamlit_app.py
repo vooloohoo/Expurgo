@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import folium
-import cv2
+from cv2 import cv2
 import matplotlib.pyplot as plt
 from bokeh.models.widgets import Button
 from bokeh.models import CustomJS
