@@ -11,4 +11,3 @@ streamlit_folium
 geopy
 datetime
 streamlit_echarts
-collections
