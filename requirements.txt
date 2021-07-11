@@ -6,7 +6,7 @@ opencv-python
 matplotlib
 bokeh
 streamlit_bokeh_events
-PIL
+pillow
 streamlit_folium
 geopy
 datetime
